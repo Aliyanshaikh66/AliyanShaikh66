@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Artifical Intelligence | Machine Learning & Devops**
 
-- 💬 Ask me about **I’m Software, Web, Mobile App, Developer I’m working in Artificial Intelligence & AI Chatbot and DApp Development**
+- 💬 Ask me about **Software, Web, Mobile App, Artificial Intelligence , AI Chatbot , BlockChain and D-App Development**
 
 - 📫 How to reach me **aliyansh10@gmail.com**
 
